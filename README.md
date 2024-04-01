@@ -1,0 +1,1 @@
+# Kinesiology-and-determination-of-hand-coordinates-while-writing-with-Python
